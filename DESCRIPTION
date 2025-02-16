@@ -1,0 +1,13 @@
+Package: ConformalPredictionUnderTruncation
+Type: Package
+Title: Robust Survival Conformal Prediction under Random Censoring and
+        Truncation
+Version: 0.1.0
+License: cc
+Author: Kang Wang
+Maintainer: Kang Wang(kwang8@mdanderson.org)
+Description: This pacakge implements comformal prediction for survival time with left-truncated and right-censored data.
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+NeedsCompilation: no
+Packaged: 2024-10-24 16:10:27 UTC;
